@@ -113,16 +113,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Include="install.ps1">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Tagcmdlet.Format.ps1xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Tagcmdlet.Types.ps1xml">
+    <None Include="Tagcmdlet.psd1">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="uninstall.ps1">
+    <None Include="Tagcmdlet.Types.ps1xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
