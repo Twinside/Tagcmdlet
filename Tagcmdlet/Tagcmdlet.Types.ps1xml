@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+  <Type>
+    <Name>Tagcmdlet.TagSet</Name>
+    <PropertySet>
+      <Name>DefaultKeyPropertySet</Name>
+      <ReferencedProperties>
+        <Name>Title</Name>
+        <Name>Performers</Name>
+        <Name>AlbumArtists</Name>
+        <Name>Composers</Name>
+        <Name>Album</Name>
+        <Name>Comment</Name>
+        <Name>Genres</Name>
+        <Name>Year</Name>
+        <Name>Track</Name>
+        <Name>TrackCount</Name>
+        <Name>Disc</Name>
+        <Name>DiscCount</Name>
+        <Name>Lyrics</Name>
+        <Name>Grouping</Name>
+        <Name>BeatsPerMinute</Name>
+        <Name>Conductor</Name>
+        <Name>Copyright</Name>
+        <Name>Pictures</Name>
+        <Name>FirstAlbumArtist</Name>
+        <Name>FirstPerformer</Name>
+        <Name>FirstComposer</Name>
+        <Name>FirstGenre</Name>
+      </ReferencedProperties>
+    </PropertySet>
+  </Type>
+</Types>
